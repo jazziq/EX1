@@ -3,17 +3,6 @@ using System.Text;
 using System.Collections.Generic;
 using NUnit.Framework;
 
-using TestStack.White;
-using TestStack.White.InputDevices;
-using TestStack.White.UIItems;
-using TestStack.White.UIItems.TableItems;
-using TestStack.White.UIItems.Actions;
-using TestStack.White.WindowsAPI;
-using TestStack.White.UIItems.Finders;
-using TestStack.White.UIItems.TreeItems;
-using TestStack.White.UIItems.WindowItems;
-using System.Windows.Automation;
-
 
 namespace Addressbook_Tests_White
 {
